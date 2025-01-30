@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://floodcleanupnewhaven.com/sitemap.xml
+
+# Allow all robots complete access
+Disallow:
